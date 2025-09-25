@@ -52,8 +52,10 @@ L’objectif final est de créer un outil d’aide à la décision qui permet d�
 ## 📊 Résultats
 
 * Carte des **5 villes les plus attractives** (chaleur + peu de pluie)
-* Carte interactive des **20 meilleurs hôtels** dans ces villes selon Booking
+![Carte des 5 villes les plus chaudes](top5bis.png)
 
+* Carte interactive des **20 meilleurs hôtels** dans ces villes selon Booking
+![Carte 20 meilleurs hotels des 5 villes les plus chaudes](top20bis.png)
 
 
 ---
