@@ -1,0 +1,176 @@
+,ville,date,temp_max_matin,temp_max_aprem,precip_matin,precip_aprem,desc_matin,desc_aprem
+0,Le Havre,2025-09-25,15.26,15.74,0.0,0.0,ciel dégagé,nuageux
+1,Le Havre,2025-09-26,12.1,14.54,0.0,0.0,couvert,couvert
+2,Le Havre,2025-09-27,12.5,16.03,0.0,0.0,nuageux,couvert
+3,Le Havre,2025-09-28,14.43,15.57,0.0,0.13,couvert,légère pluie
+4,Le Havre,2025-09-29,16.06,16.2,0.0,0.0,ciel dégagé,couvert
+5,Nimes,2025-09-25,15.99,20.04,0.0,0.0,ciel dégagé,nuageux
+6,Nimes,2025-09-26,17.36,21.58,0.0,0.0,nuageux,peu nuageux
+7,Nimes,2025-09-27,16.53,23.11,0.0,0.0,couvert,nuageux
+8,Nimes,2025-09-28,18.72,22.16,0.0,0.0,couvert,couvert
+9,Nimes,2025-09-29,19.22,24.29,0.0,0.0,couvert,couvert
+10,Saint Malo,2025-09-25,15.29,16.43,0.21,0.0,légère pluie,partiellement nuageux
+11,Saint Malo,2025-09-26,14.28,15.71,0.0,0.0,ciel dégagé,couvert
+12,Saint Malo,2025-09-27,13.22,19.49,0.0,0.0,couvert,couvert
+13,Saint Malo,2025-09-28,14.58,15.82,0.82,0.0,légère pluie,nuageux
+14,Saint Malo,2025-09-29,15.83,16.28,0.0,0.0,ciel dégagé,couvert
+15,Besancon,2025-09-25,12.1,12.83,0.0,1.1,couvert,légère pluie
+16,Besancon,2025-09-26,10.85,10.04,0.0,3.02,couvert,pluie modérée
+17,Besancon,2025-09-27,12.02,15.1,0.33,0.97,légère pluie,légère pluie
+18,Besancon,2025-09-28,14.5,17.43,0.0,0.0,ciel dégagé,ciel dégagé
+19,Besancon,2025-09-29,14.96,18.03,0.0,0.0,partiellement nuageux,peu nuageux
+20,Bayonne,2025-09-25,14.91,19.67,0.12,0.0,légère pluie,nuageux
+21,Bayonne,2025-09-26,15.26,16.91,0.0,0.0,ciel dégagé,ciel dégagé
+22,Bayonne,2025-09-27,17.02,23.2,0.0,0.0,couvert,nuageux
+23,Bayonne,2025-09-28,19.54,20.08,0.0,0.0,couvert,couvert
+24,Bayonne,2025-09-29,18.84,19.34,0.0,0.0,partiellement nuageux,partiellement nuageux
+25,Lille,2025-09-25,11.34,10.77,0.0,0.0,ciel dégagé,nuageux
+26,Lille,2025-09-26,10.32,14.97,0.0,0.0,couvert,nuageux
+27,Lille,2025-09-27,12.25,16.72,0.0,0.0,couvert,couvert
+28,Lille,2025-09-28,13.95,18.84,0.0,0.0,peu nuageux,couvert
+29,Lille,2025-09-29,16.01,20.84,0.0,0.0,ciel dégagé,ciel dégagé
+30,La Rochelle,2025-09-25,12.03,17.71,0.0,0.0,ciel dégagé,nuageux
+31,La Rochelle,2025-09-26,13.89,15.69,0.0,0.0,ciel dégagé,ciel dégagé
+32,La Rochelle,2025-09-27,14.22,18.07,0.0,0.0,couvert,couvert
+33,La Rochelle,2025-09-28,16.25,18.66,0.0,0.0,couvert,partiellement nuageux
+34,La Rochelle,2025-09-29,15.92,18.61,0.0,0.0,ciel dégagé,partiellement nuageux
+35,Bormes les Mimosas,2025-09-25,16.4,19.02,0.0,0.0,ciel dégagé,ciel dégagé
+36,Bormes les Mimosas,2025-09-26,18.14,18.43,0.0,0.0,nuageux,partiellement nuageux
+37,Bormes les Mimosas,2025-09-27,18.03,19.12,0.0,0.0,couvert,nuageux
+38,Bormes les Mimosas,2025-09-28,18.0,19.46,0.0,0.0,couvert,couvert
+39,Bormes les Mimosas,2025-09-29,19.06,20.08,0.0,0.0,nuageux,nuageux
+40,Saintes Maries de la mer,2025-09-25,16.3,19.48,0.0,0.0,ciel dégagé,peu nuageux
+41,Saintes Maries de la mer,2025-09-26,16.13,17.18,0.0,0.0,nuageux,ciel dégagé
+42,Saintes Maries de la mer,2025-09-27,17.21,19.98,0.0,0.0,couvert,nuageux
+43,Saintes Maries de la mer,2025-09-28,18.49,19.16,0.0,0.0,couvert,couvert
+44,Saintes Maries de la mer,2025-09-29,19.8,21.52,0.0,0.0,nuageux,couvert
+45,Mont Saint Michel,2025-09-25,13.52,16.84,0.0,0.0,couvert,couvert
+46,Mont Saint Michel,2025-09-26,12.99,15.72,0.0,0.26,partiellement nuageux,légère pluie
+47,Mont Saint Michel,2025-09-27,12.96,19.42,0.0,0.0,couvert,couvert
+48,Mont Saint Michel,2025-09-28,13.28,16.59,1.79,0.0,légère pluie,nuageux
+49,Mont Saint Michel,2025-09-29,14.81,16.99,0.0,0.0,ciel dégagé,couvert
+50,Gorges du Verdon,2025-09-25,11.32,13.2,0.0,0.0,ciel dégagé,partiellement nuageux
+51,Gorges du Verdon,2025-09-26,13.59,15.56,0.0,0.0,couvert,nuageux
+52,Gorges du Verdon,2025-09-27,12.32,16.28,0.0,0.0,couvert,partiellement nuageux
+53,Gorges du Verdon,2025-09-28,14.83,15.93,0.0,0.0,couvert,couvert
+54,Gorges du Verdon,2025-09-29,16.24,15.37,0.0,0.11,couvert,légère pluie
+55,Foix,2025-09-25,14.25,16.27,0.0,0.0,partiellement nuageux,nuageux
+56,Foix,2025-09-26,14.49,17.83,0.0,0.0,nuageux,nuageux
+57,Foix,2025-09-27,19.87,23.66,0.0,0.0,couvert,nuageux
+58,Foix,2025-09-28,19.22,21.42,0.0,0.0,couvert,couvert
+59,Foix,2025-09-29,18.14,20.55,0.0,0.0,nuageux,partiellement nuageux
+60,Collioure,2025-09-25,18.08,18.54,0.0,0.0,peu nuageux,nuageux
+61,Collioure,2025-09-26,14.94,17.66,0.24,0.0,légère pluie,couvert
+62,Collioure,2025-09-27,19.16,21.83,0.0,0.0,couvert,couvert
+63,Collioure,2025-09-28,18.36,21.77,0.1,0.0,légère pluie,nuageux
+64,Collioure,2025-09-29,21.47,25.0,0.0,0.0,nuageux,nuageux
+65,Uzes,2025-09-25,15.32,19.15,0.0,0.0,ciel dégagé,nuageux
+66,Uzes,2025-09-26,16.62,21.1,0.0,0.0,nuageux,nuageux
+67,Uzes,2025-09-27,16.46,22.18,0.0,0.0,couvert,couvert
+68,Uzes,2025-09-28,18.39,21.66,0.0,0.0,couvert,couvert
+69,Uzes,2025-09-29,17.85,24.13,0.0,0.0,couvert,couvert
+70,Biarritz,2025-09-25,15.3,17.38,0.33,0.12,légère pluie,légère pluie
+71,Biarritz,2025-09-26,15.12,16.72,0.0,0.0,ciel dégagé,ciel dégagé
+72,Biarritz,2025-09-27,17.17,22.93,0.0,0.0,couvert,nuageux
+73,Biarritz,2025-09-28,19.42,19.71,0.0,0.0,couvert,couvert
+74,Biarritz,2025-09-29,18.65,19.02,0.0,0.0,partiellement nuageux,partiellement nuageux
+75,Cassis,2025-09-25,15.76,18.99,0.0,0.0,peu nuageux,peu nuageux
+76,Cassis,2025-09-26,16.86,17.59,0.0,0.0,couvert,ciel dégagé
+77,Cassis,2025-09-27,18.37,19.35,0.0,0.0,couvert,nuageux
+78,Cassis,2025-09-28,18.94,19.8,0.0,0.0,couvert,couvert
+79,Cassis,2025-09-29,19.07,19.83,0.0,0.36,couvert,légère pluie
+80,Bayeux,2025-09-25,12.85,16.18,0.19,0.11,légère pluie,légère pluie
+81,Bayeux,2025-09-26,12.57,14.75,0.21,0.0,légère pluie,nuageux
+82,Bayeux,2025-09-27,13.34,17.48,0.0,0.0,couvert,couvert
+83,Bayeux,2025-09-28,14.98,16.66,0.0,0.0,couvert,couvert
+84,Bayeux,2025-09-29,16.19,17.28,0.0,0.0,ciel dégagé,nuageux
+85,Eguisheim,2025-09-25,11.5,12.42,0.0,1.83,couvert,légère pluie
+86,Eguisheim,2025-09-26,11.53,13.54,0.0,0.0,couvert,couvert
+87,Eguisheim,2025-09-27,11.77,16.32,0.0,0.0,couvert,nuageux
+88,Eguisheim,2025-09-28,14.74,16.94,0.0,0.1,peu nuageux,légère pluie
+89,Eguisheim,2025-09-29,15.02,17.83,0.0,0.0,nuageux,ciel dégagé
+90,Lyon,2025-09-25,12.52,15.79,0.25,0.22,légère pluie,légère pluie
+91,Lyon,2025-09-26,12.0,15.14,0.0,0.0,couvert,couvert
+92,Lyon,2025-09-27,14.37,20.18,0.0,0.0,nuageux,nuageux
+93,Lyon,2025-09-28,15.2,20.22,0.0,0.0,couvert,couvert
+94,Lyon,2025-09-29,15.77,20.22,0.0,0.0,nuageux,ciel dégagé
+95,Colmar,2025-09-25,11.76,12.34,0.0,2.36,couvert,légère pluie
+96,Colmar,2025-09-26,11.9,14.11,0.0,0.0,couvert,couvert
+97,Colmar,2025-09-27,12.15,16.62,0.0,0.0,couvert,nuageux
+98,Colmar,2025-09-28,15.02,17.37,0.0,0.1,peu nuageux,légère pluie
+99,Colmar,2025-09-29,15.24,18.22,0.0,0.0,nuageux,ciel dégagé
+100,Aigues Mortes,2025-09-25,16.94,19.93,0.0,0.0,ciel dégagé,partiellement nuageux
+101,Aigues Mortes,2025-09-26,16.31,17.9,0.0,0.0,nuageux,ciel dégagé
+102,Aigues Mortes,2025-09-27,16.83,19.58,0.0,0.0,couvert,couvert
+103,Aigues Mortes,2025-09-28,18.32,19.44,0.0,0.0,couvert,couvert
+104,Aigues Mortes,2025-09-29,20.21,21.48,0.0,0.0,nuageux,couvert
+105,Aix en Provence,2025-09-25,15.33,18.66,0.0,0.0,peu nuageux,partiellement nuageux
+106,Aix en Provence,2025-09-26,17.21,19.18,0.0,0.0,couvert,nuageux
+107,Aix en Provence,2025-09-27,16.28,21.38,0.0,0.0,couvert,partiellement nuageux
+108,Aix en Provence,2025-09-28,18.38,20.38,0.0,0.0,couvert,couvert
+109,Aix en Provence,2025-09-29,19.66,22.08,0.0,0.0,couvert,partiellement nuageux
+110,Grenoble,2025-09-25,14.07,17.11,0.12,0.24,légère pluie,légère pluie
+111,Grenoble,2025-09-26,14.5,15.46,0.0,0.0,couvert,couvert
+112,Grenoble,2025-09-27,17.12,21.28,0.0,0.0,partiellement nuageux,couvert
+113,Grenoble,2025-09-28,20.0,21.8,0.0,0.0,nuageux,couvert
+114,Grenoble,2025-09-29,18.09,20.79,0.0,0.0,couvert,partiellement nuageux
+115,Rouen,2025-09-25,11.89,13.14,0.0,0.0,ciel dégagé,nuageux
+116,Rouen,2025-09-26,10.93,11.49,0.0,0.0,couvert,couvert
+117,Rouen,2025-09-27,12.65,17.16,0.0,0.0,couvert,couvert
+118,Rouen,2025-09-28,14.63,16.08,0.0,0.0,couvert,couvert
+119,Rouen,2025-09-29,15.29,20.74,0.0,0.0,ciel dégagé,partiellement nuageux
+120,Amiens,2025-09-25,11.21,10.72,0.0,0.0,couvert,couvert
+121,Amiens,2025-09-26,9.72,12.16,0.0,0.0,couvert,couvert
+122,Amiens,2025-09-27,12.31,16.73,0.0,0.0,couvert,couvert
+123,Amiens,2025-09-28,14.3,18.56,0.0,0.0,nuageux,couvert
+124,Amiens,2025-09-29,15.88,20.16,0.0,0.0,partiellement nuageux,partiellement nuageux
+125,Marseille,2025-09-25,16.57,19.83,0.0,0.0,ciel dégagé,peu nuageux
+126,Marseille,2025-09-26,17.41,18.52,0.0,0.0,couvert,peu nuageux
+127,Marseille,2025-09-27,18.7,20.29,0.0,0.0,couvert,nuageux
+128,Marseille,2025-09-28,19.51,20.52,0.0,0.0,couvert,couvert
+129,Marseille,2025-09-29,19.88,20.74,0.0,0.12,couvert,légère pluie
+130,Avignon,2025-09-25,16.06,19.84,0.0,0.0,ciel dégagé,partiellement nuageux
+131,Avignon,2025-09-26,16.67,21.81,0.0,0.0,nuageux,nuageux
+132,Avignon,2025-09-27,16.67,23.78,0.0,0.0,couvert,nuageux
+133,Avignon,2025-09-28,18.66,22.44,0.0,0.0,couvert,couvert
+134,Avignon,2025-09-29,19.99,24.71,0.0,0.0,nuageux,couvert
+135,Chateau du Haut Koenigsbourg,2025-09-25,9.1,9.92,0.33,3.82,légère pluie,pluie modérée
+136,Chateau du Haut Koenigsbourg,2025-09-26,9.5,12.06,0.0,0.0,couvert,couvert
+137,Chateau du Haut Koenigsbourg,2025-09-27,9.64,13.7,0.0,0.15,couvert,légère pluie
+138,Chateau du Haut Koenigsbourg,2025-09-28,12.64,14.91,0.0,0.17,ciel dégagé,légère pluie
+139,Chateau du Haut Koenigsbourg,2025-09-29,12.86,15.6,0.0,0.0,nuageux,peu nuageux
+140,Annecy,2025-09-25,12.23,14.94,0.0,0.38,couvert,légère pluie
+141,Annecy,2025-09-26,11.5,9.99,0.0,0.79,couvert,légère pluie
+142,Annecy,2025-09-27,13.86,17.56,0.0,0.0,partiellement nuageux,partiellement nuageux
+143,Annecy,2025-09-28,16.39,19.2,0.0,0.0,nuageux,couvert
+144,Annecy,2025-09-29,16.08,19.15,0.0,0.0,nuageux,peu nuageux
+145,Carcassonne,2025-09-25,15.76,17.99,0.0,0.0,couvert,couvert
+146,Carcassonne,2025-09-26,14.8,21.51,0.0,0.0,couvert,ciel dégagé
+147,Carcassonne,2025-09-27,18.03,22.43,0.0,0.0,couvert,couvert
+148,Carcassonne,2025-09-28,17.98,24.96,0.0,0.0,couvert,couvert
+149,Carcassonne,2025-09-29,20.2,24.48,0.0,0.0,partiellement nuageux,ciel dégagé
+150,Dijon,2025-09-25,11.8,12.91,0.14,0.0,légère pluie,couvert
+151,Dijon,2025-09-26,9.72,9.57,0.5,0.79,légère pluie,légère pluie
+152,Dijon,2025-09-27,11.73,16.18,0.52,0.0,légère pluie,partiellement nuageux
+153,Dijon,2025-09-28,13.49,18.52,0.0,0.0,peu nuageux,ciel dégagé
+154,Dijon,2025-09-29,14.95,18.8,0.0,0.0,peu nuageux,peu nuageux
+155,Toulouse,2025-09-25,14.8,17.62,0.0,0.0,ciel dégagé,nuageux
+156,Toulouse,2025-09-26,14.07,20.31,0.0,0.0,nuageux,ciel dégagé
+157,Toulouse,2025-09-27,16.64,24.9,0.0,0.0,couvert,couvert
+158,Toulouse,2025-09-28,17.87,21.28,0.0,0.0,couvert,couvert
+159,Toulouse,2025-09-29,18.72,23.82,0.0,0.0,partiellement nuageux,ciel dégagé
+160,Montauban,2025-09-25,13.83,17.42,0.0,0.0,couvert,couvert
+161,Montauban,2025-09-26,13.46,19.09,0.0,0.0,peu nuageux,ciel dégagé
+162,Montauban,2025-09-27,16.13,23.56,0.0,0.0,couvert,nuageux
+163,Montauban,2025-09-28,16.81,20.65,0.0,0.0,couvert,couvert
+164,Montauban,2025-09-29,17.79,23.46,0.0,0.0,ciel dégagé,ciel dégagé
+165,Strasbourg,2025-09-25,11.54,11.87,1.61,3.67,légère pluie,pluie modérée
+166,Strasbourg,2025-09-26,11.0,15.32,0.0,0.1,couvert,légère pluie
+167,Strasbourg,2025-09-27,12.28,16.75,0.0,0.0,couvert,partiellement nuageux
+168,Strasbourg,2025-09-28,13.99,18.23,0.0,0.0,partiellement nuageux,ciel dégagé
+169,Strasbourg,2025-09-29,14.25,18.54,0.0,0.0,partiellement nuageux,ciel dégagé
+170,Paris,2025-09-25,10.78,10.81,0.0,0.0,couvert,couvert
+171,Paris,2025-09-26,9.88,11.34,0.88,0.15,légère pluie,légère pluie
+172,Paris,2025-09-27,11.33,17.04,0.0,0.0,couvert,nuageux
+173,Paris,2025-09-28,14.65,18.99,0.0,0.0,partiellement nuageux,couvert
+174,Paris,2025-09-29,16.65,21.11,0.0,0.0,ciel dégagé,ciel dégagé

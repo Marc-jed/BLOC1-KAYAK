@@ -1,0 +1,227 @@
+[
+    {
+        "ville": "La Rochelle",
+        "name": "Hôtel de l'Océan",
+        "description": "Construit en 1646, l'Hôtel de l'Océan se trouve dans le quartier du Vieux Port, au cœur de La Rochelle. Il propose des chambres insonorisées avec climatisation et connexion Wi-Fi gratuite.\n\nCertaines chambres offrent une vue sur le golfe de Gascogne et le port.\n\nUn petit-déjeuner continental est servi sur la terrasse, en chambre ou dans la salle prévue à cet effet.\n\nL'Hôtel de L'Océan est situé à 2 minutes à pied des principaux sites touristiques de La Rochelle. L'Aquarium La Rochelle est accessible en 15 minutes de marche. Vous pourrez rejoindre l'île d'Aix, Fort Boyard ainsi que les îles de Ré et d'Oléron grâce aux navettes en bateau disponibles en face de l'hôtel.",
+        "url": "https://www.booking.com/hotel/fr/de-l-ocean-la-rochelle.fr.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9sYSByb2NoZWxsZSwgZnJhbmNlSA1YBGhNiAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALt6-_FBsACAdICJGYzNDQzNThiLWE1YWQtNDA1Ni04ZmE3LTllYjIxOTYyNzc2YdgCAeACAQ&sid=b109377640976452e5a5c02c621d1ae5&dist=0&group_adults=2&group_children=0&hapos=25&hpos=25&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&srepoch=1757148655&srpvid=27c03e3630330170&type=total&ucfs=1&",
+        "rating": "Avec une note de 8,6",
+        "latitude": "46.1570198263049",
+        "longitude": "-1.1541277170181274"
+    },
+    {
+        "ville": "La Rochelle",
+        "name": "Maison des Ambassadeurs",
+        "description": "Situé au cœur de La Rochelle, dans un bâtiment datant du XVIIIe siècle, à seulement 5 minutes à pied du Vieux-Port, la Maison des Ambassadeurs propose une réception ouverte 24h/24 et un service de conciergerie.\n\nPrésentant une décoration haut de gamme, toutes les chambres et les suites de la Maison des Ambassadeurs incluent une salle de bains privative avec des articles de toilette gratuits.\n\nLe soir, le piano-bar ou la terrasse sur place offrent un cadre idéal pour boire un verre. Vous pourrez vous détendre dans les salons de l'hôtel ou au bord de la piscine extérieure.\n\nCet hôtel se trouve à seulement 1,5 km de l’Aquarium La Rochelle et de la plage, et à 15 minutes de route du pont de l'île de Ré. Des bornes de recharge pour les voitures électriques se trouvent sur place.",
+        "url": "https://www.booking.com/hotel/fr/la-residence-de-france-residence-hoteliere.fr.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9sYSByb2NoZWxsZSwgZnJhbmNlSA1YBGhNiAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALt6-_FBsACAdICJGYzNDQzNThiLWE1YWQtNDA1Ni04ZmE3LTllYjIxOTYyNzc2YdgCAeACAQ&sid=b109377640976452e5a5c02c621d1ae5&dist=0&group_adults=2&group_children=0&hapos=24&hpos=24&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&srepoch=1757148655&srpvid=27c03e3630330170&type=total&ucfs=1&",
+        "rating": "Avec une note de 9,0",
+        "latitude": "46.162825533595864",
+        "longitude": "-1.1511021852493286"
+    },
+    {
+        "ville": "La Rochelle",
+        "name": "Logis Hôtel Le Rochelois",
+        "description": "Le Logis Hôtel Le Rochelois propose une piscine extérieure ouverte en saison et un court de tennis. Une connexion Wi-Fi est accessible gratuitement dans tout l’établissement. Vous pourrez profiter d’un bain à remous avec jets d’hydromassage, d’un sauna et d’un hammam moyennant des frais supplémentaires. Seules les personnes de 18 ans et plus peuvent accéder au spa et à la salle de sport.\n\nToutes les chambres disposent d’une télévision à écran plat. Les salles de bains privatives sont pourvues d’une douche à l’italienne ou d’une baignoire et de toilettes.\n\nChaque matin, vous pourrez déguster un petit-déjeuner continental composé de viennoiseries, de fromages, de fruits, d’œufs, de céréales, de confitures, de jambon, de miel et de thé.\n\nLe Logis Hôtel Le Rochelois se trouve à 5 km de la gare de La Rochelle. Un nombre limité de places de parking privées et gratuites est disponible sur place. Un parking privé souterrain est accessible moyennant des frais supplémentaires.",
+        "url": "https://www.booking.com/hotel/fr/le-rochelois.fr.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9sYSByb2NoZWxsZSwgZnJhbmNlSA1YBGhNiAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALt6-_FBsACAdICJGYzNDQzNThiLWE1YWQtNDA1Ni04ZmE3LTllYjIxOTYyNzc2YdgCAeACAQ&sid=b109377640976452e5a5c02c621d1ae5&dist=0&group_adults=2&group_children=0&hapos=23&hpos=23&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&srepoch=1757148655&srpvid=27c03e3630330170&type=total&ucfs=1&",
+        "rating": "Avec une note de 7,6",
+        "latitude": "46.15418174739432",
+        "longitude": "-1.1824365201682667"
+    },
+    {
+        "ville": "La Rochelle",
+        "name": "Hôtel Le Rupella",
+        "description": "Situé au cœur de La Rochelle, l'Hôtel Le Rupella propose des chambres avec salle de bains privative, connexion Wi-Fi gratuite et bureau, à 10 minutes à pied de la gare et à proximité du port.\n\nLes chambres de l'Hôtel Le Rupella comprennent une télévision à écran plat ainsi qu'une salle de bains privative pourvue d'une baignoire ou d'une douche et d'articles de toilette gratuits. Certaines sont en outre dotées d'un balcon.\n\nOffrant une vue panoramique sur le port, le restaurant de l'hôtel sert une cuisine française traditionnelle. Vous aurez également la possibilité de déguster un verre au bar sur place ou de savourer votre petit-déjeuner en chambre.\n\nL'hôtel possède une réception ouverte 24h/24. Enfin, il se trouve à 850 mètres de l'aquarium de la ville et à 5 minutes de route du parc des expositions de La Rochelle.",
+        "url": "https://www.booking.com/hotel/fr/le-rupella.fr.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9sYSByb2NoZWxsZSwgZnJhbmNlSA1YBGhNiAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALt6-_FBsACAdICJGYzNDQzNThiLWE1YWQtNDA1Ni04ZmE3LTllYjIxOTYyNzc2YdgCAeACAQ&sid=b109377640976452e5a5c02c621d1ae5&dist=0&group_adults=2&group_children=0&hapos=22&hpos=22&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&srepoch=1757148655&srpvid=27c03e3630330170&type=total&ucfs=1&",
+        "rating": "Avec une note de 6,9",
+        "latitude": "46.15817494424789",
+        "longitude": "-1.15106999874115"
+    },
+    {
+        "ville": "La Rochelle",
+        "name": "6 appartements et 4 adresses à mi-chemin entre le Vieux Port et l île de Ré",
+        "description": "Offrant une vue sur la ville, l’établissement 6 appartements et 4 adresses à mi-chemin entre le Vieux Port et l île de Ré comprend une connexion Wi-Fi gratuite et un parking privé gratuit. Il se situe à La Rochelle, à 2,4 km de ce lieu d’intérêt : Plage de la Concurrence.\n\nChaque hébergement est pourvu d'une télévision à écran plat ainsi que d'une salle de bains privative avec une douche et un sèche-cheveux. La cuisine possède un réfrigérateur, un micro-ondes et une plaque de cuisson. Un grille-pain est également à disposition, ainsi qu'une machine à café et une bouilloire.\n\nVous séjournerez à respectivement 5,4 km et 6,4 km de ces lieux d’intérêt : Gare de La Rochelle-Ville et L'Espace Encan. L'aéroport le plus proche (Aéroport de La Rochelle - Île de Ré) est à 2 km.",
+        "url": "https://www.booking.com/hotel/fr/europe-la-rochelle1.fr.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9sYSByb2NoZWxsZSwgZnJhbmNlSA1YBGhNiAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALt6-_FBsACAdICJGYzNDQzNThiLWE1YWQtNDA1Ni04ZmE3LTllYjIxOTYyNzc2YdgCAeACAQ&sid=b109377640976452e5a5c02c621d1ae5&dist=0&group_adults=2&group_children=0&hapos=21&hpos=21&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&srepoch=1757148655&srpvid=27c03e3630330170&type=total&ucfs=1&",
+        "rating": "Avec une note de 7,9",
+        "latitude": "46.168863965490054",
+        "longitude": "-1.174596472777587"
+    },
+    {
+        "ville": "La Rochelle",
+        "name": "Maison Caju - La Rochelle",
+        "description": "L’établissement Maison Caju - La Rochelle se trouve à 400 mètres du centre de La Rochelle. Il propose un salon commun et une terrasse. Une connexion Wi-Fi gratuite est disponible dans l’ensemble de ses locaux.\n\nUn réfrigérateur, un lave-vaisselle et un four sont également disponibles dans la cuisine, de même qu’une machine à café.\n\nUn service de location de vélos est disponible sur place.\n\nVous séjournerez à proximité de ces lieux d’intérêt : Plage de la Concurrence, Gare de La Rochelle-Ville et L'Espace Encan. L'aéroport le plus proche (Aéroport de La Rochelle - Île de Ré) est à 4 km. Un service de navette aéroport payant peut être assuré par l’établissement.",
+        "url": "https://www.booking.com/hotel/fr/maison-plume-la-rochelle.fr.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9sYSByb2NoZWxsZSwgZnJhbmNlSA1YBGhNiAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALt6-_FBsACAdICJGYzNDQzNThiLWE1YWQtNDA1Ni04ZmE3LTllYjIxOTYyNzc2YdgCAeACAQ&sid=b109377640976452e5a5c02c621d1ae5&dist=0&group_adults=2&group_children=0&hapos=20&hpos=20&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&srepoch=1757148655&srpvid=27c03e3630330170&type=total&ucfs=1&",
+        "rating": "Avec une note de 9,0",
+        "latitude": "46.157977331811",
+        "longitude": "-1.155805057672"
+    },
+    {
+        "ville": "La Rochelle",
+        "name": "Tour de Nesle La Rochelle Vieux Port 3 etoiles",
+        "description": "Situé face aux 2 tours de l'entrée du port de La Rochelle, l'Hôtel de la Tour de Nesle est un charmant établissement bénéficiant d'un emplacement idéal au cœur de la vieille ville.\n\nL'hôtel fournit une connexion Wi-Fi gratuite et propose des chambres confortables à la décoration simple et fonctionnelle. Certaines d'entre elles offrent une vue sur les célèbres tours médiévales de La Rochelle.\n\nVous pourrez commencer la journée par un copieux petit-déjeuner servi dans la salle prévue à cet effet.\n\nLa Tour de Nesle se trouve dans un quartier pittoresque regorgeant de restaurants, de boutiques et de cafés.",
+        "url": "https://www.booking.com/hotel/fr/de-la-tour-de-nesle-la-rochelle.fr.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9sYSByb2NoZWxsZSwgZnJhbmNlSA1YBGhNiAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALt6-_FBsACAdICJGYzNDQzNThiLWE1YWQtNDA1Ni04ZmE3LTllYjIxOTYyNzc2YdgCAeACAQ&sid=b109377640976452e5a5c02c621d1ae5&dist=0&group_adults=2&group_children=0&hapos=19&hpos=19&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&srepoch=1757148655&srpvid=27c03e3630330170&type=total&ucfs=1&",
+        "rating": "Avec une note de 8,6",
+        "latitude": "46.15809741187169",
+        "longitude": "-1.1503618953975092"
+    },
+    {
+        "ville": "La Rochelle",
+        "name": "Hôtel La Fabrique",
+        "description": "L’Hôtel La Fabrique se trouve à La Rochelle.\n\nLes chambres sont dotées d’une télévision à écran plat. Vous profiterez d’une connexion Wi-Fi gratuite dans l’ensemble de l’établissement.\n\nL’établissement dispose d’une réception ouverte 24h/24. Un parking public payant est disponible à proximité.\n\nL’Hôtel La Fabrique se trouve à 600 mètres de l’Espace Encan et à 700 mètres du parc des expositions de La Rochelle. L’aéroport de La Rochelle-Île de Ré, le plus proche, est à 4 km.",
+        "url": "https://www.booking.com/hotel/fr/la-fabrique-la-rochelle.fr.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9sYSByb2NoZWxsZSwgZnJhbmNlSA1YBGhNiAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALt6-_FBsACAdICJGYzNDQzNThiLWE1YWQtNDA1Ni04ZmE3LTllYjIxOTYyNzc2YdgCAeACAQ&sid=b109377640976452e5a5c02c621d1ae5&dist=0&group_adults=2&group_children=0&hapos=18&hpos=18&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&srepoch=1757148655&srpvid=27c03e3630330170&type=total&ucfs=1&",
+        "rating": "Avec une note de 8,4",
+        "latitude": "46.156155",
+        "longitude": "-1.14858300000003"
+    },
+    {
+        "ville": "La Rochelle",
+        "name": "Hôtel Les Brises",
+        "description": "Situé en bord de mer, à seulement 2 km du vieux port de La Rochelle, l’Hôtel Les Brises offre une vue panoramique sur la mer et les îles voisines. Vous bénéficierez gratuitement d’une connexion Wi-Fi.\nLes chambres du Brises comportent une télévision par satellite. Les salles de bains privatives sont pourvues d'articles de toilette de luxe.\n\nVous pourrez déguster une boisson au bar ou vous détendre sur la grande terrasse en bord de mer offrant une vue panoramique sur la mer. L’établissement est équipé d’un ascenseur.\n\nL’hôtel Les Brises est implanté à 2 km du centre de La Rochelle et à côté du parc Franck Delmas.",
+        "url": "https://www.booking.com/hotel/fr/hotellesbrises.fr.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9sYSByb2NoZWxsZSwgZnJhbmNlSA1YBGhNiAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALt6-_FBsACAdICJGYzNDQzNThiLWE1YWQtNDA1Ni04ZmE3LTllYjIxOTYyNzc2YdgCAeACAQ&sid=b109377640976452e5a5c02c621d1ae5&dist=0&group_adults=2&group_children=0&hapos=17&hpos=17&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&srepoch=1757148655&srpvid=27c03e3630330170&type=total&ucfs=1&",
+        "rating": "Avec une note de 8,6",
+        "latitude": "46.15345807004079",
+        "longitude": "-1.174386441707611"
+    },
+    {
+        "ville": "La Rochelle",
+        "name": "Hôtel François 1er",
+        "description": "Situé dans le cœur historique de La Rochelle, l’Hôtel François 1er vous accueille dans un bâtiment datant du XVIe siècle, à seulement 5 minutes à pied du Vieux-Port et du marché local. L’Hôtel François 1er propose une réception ouverte 24h/24 et une connexion Wi-Fi gratuite illimitée.\n\nTous les logements spacieux de l’Hôtel François 1er présentent un décor confortable inspiré par le rock, le cinéma, la peinture, le graffiti ou la photographie. Une télévision et une salle de bains privative sont disponibles.\n\nSur place, vous profiterez d’un service d’étage, d’un bar-salon et d’un espace détente. Le parking sécurisé de l’établissement, situé dans le centre-ville, est accessible sur réservation et moyennant un supplément.\n\nVous séjournerez à quelques pas de plusieurs magasins, restaurants et bars animés. L’Hôtel François 1er se situe aussi à proximité de lieux d’intérêt comme l’aquarium, le musée d’histoire naturelle, ainsi que les parcs et plages de la ville.\n\nLa gare de La Rochelle est située à 1,9 km.",
+        "url": "https://www.booking.com/hotel/fr/hotelfrancoiser.fr.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9sYSByb2NoZWxsZSwgZnJhbmNlSA1YBGhNiAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALt6-_FBsACAdICJGYzNDQzNThiLWE1YWQtNDA1Ni04ZmE3LTllYjIxOTYyNzc2YdgCAeACAQ&sid=b109377640976452e5a5c02c621d1ae5&dist=0&group_adults=2&group_children=0&hapos=16&hpos=16&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&srepoch=1757148655&srpvid=27c03e3630330170&type=total&ucfs=1&",
+        "rating": "Avec une note de 8,3",
+        "latitude": "46.16091142532221",
+        "longitude": "-1.1520369350910187"
+    },
+    {
+        "ville": "La Rochelle",
+        "name": "ATHOME RESIDENCE ET SPA",
+        "description": "Situé à La Rochelle, l’établissement ATHOME RESIDENCE ET SPA comprend une connexion Wi-Fi gratuite, un jardin, un salon commun et une terrasse. Un parking privé est disponible sur place.\n\nChaque hébergement possède une télévision à écran plat avec les chaînes du satellite. Vous bénéficierez également d’une kitchenette complètement équipée comprenant une table à manger, ainsi que d’une salle de bains privative comportant une douche, des articles de toilette gratuits et un sèche-cheveux. Un réfrigérateur, un micro-ondes et une plaque de cuisson sont également à votre disposition, de même qu’une machine à café et une bouilloire.\n\nUn petit-déjeuner buffet, continental et sans gluten est servi sur place.\n\nVous séjournerez à proximité de ces lieux d’intérêt : Plage du Roux, L'Espace Encan et Gare de La Rochelle-Ville. L'aéroport le plus proche (Aéroport de La Rochelle - Île de Ré) est à 8 km.",
+        "url": "https://www.booking.com/hotel/fr/athome-residence-et-spa.fr.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9sYSByb2NoZWxsZSwgZnJhbmNlSA1YBGhNiAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALt6-_FBsACAdICJGYzNDQzNThiLWE1YWQtNDA1Ni04ZmE3LTllYjIxOTYyNzc2YdgCAeACAQ&sid=b109377640976452e5a5c02c621d1ae5&dist=0&group_adults=2&group_children=0&hapos=15&hpos=15&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&srepoch=1757148655&srpvid=27c03e3630330170&type=total&ucfs=1&",
+        "rating": "Avec une note de 8,3",
+        "latitude": "46.145995",
+        "longitude": "-1.152398"
+    },
+    {
+        "ville": "La Rochelle",
+        "name": "Best Western Premier Le Masq Hotel",
+        "description": "Le Best Western Masqhotel est un hôtel design situé à 5 minutes de marche du vieux port de La Rochelle. Il possède des chambres contemporaines, un bar-salon et une connexion Wi-Fi gratuite.\n\nLes chambres et les suites climatisées du Masqhotel comprennent des œuvres d'art originales. Elles sont dotées d'une télévision par satellite à écran plat, d'un bureau et d'un plateau/bouilloire.\n\nUn petit-déjeuner buffet composé de plats chauds et froids est servi chaque matin à l'hôtel. Vous pourrez également vous détendre dans le bar-salon de l'établissement, qui propose un large choix de boissons ainsi que des journaux gratuits.\n\nLa réception est ouverte 24h/24. Un service de blanchisserie et un parking privé sont disponibles moyennant des frais supplémentaires.\n\nCet hôtel certifié Eco-label se trouve à 150 mètres de la gare de La Rochelle et à 6 km de l'aéroport de la ville.",
+        "url": "https://www.booking.com/hotel/fr/masqhotel.fr.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9sYSByb2NoZWxsZSwgZnJhbmNlSA1YBGhNiAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALt6-_FBsACAdICJGYzNDQzNThiLWE1YWQtNDA1Ni04ZmE3LTllYjIxOTYyNzc2YdgCAeACAQ&sid=b109377640976452e5a5c02c621d1ae5&dist=0&group_adults=2&group_children=0&hapos=14&hpos=14&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&srepoch=1757148655&srpvid=27c03e3630330170&type=total&ucfs=1&",
+        "rating": "Avec une note de 8,9",
+        "latitude": "46.15483672188565",
+        "longitude": "-1.1450564861297607"
+    },
+    {
+        "ville": "La Rochelle",
+        "name": "Résidence Odalys Archipel",
+        "description": "La Résidence Odalys Archipel vous accueille à La Rochelle, à seulement 1,4 km des plages, du port et du centre-ville. Elle propose des appartements entièrement meublés et équipés, une piscine extérieure chauffée, une salle de sport et une connexion Internet par fibre optique.\n\nTous les logements sont dotés d’une salle de bains privative, d’un salon, d’une kitchenette entièrement équipée, d’une télévision à écran LCD et d’une connexion Internet gratuite. Certaines possèdent une terrasse ou un balcon, sous réserve de disponibilité.\n\nDes services de blanchisserie et de billetterie sont proposés à la Résidence Odalys Archipel. Un service de ménage quotidien peut être assuré, moyennant des frais supplémentaires.\n\nLa Rochelle compte un grand nombre de sites et d’attractions, tels que le vieux port, le port de plaisance et la vieille ville, et accueille plusieurs festivals d’art.",
+        "url": "https://www.booking.com/hotel/fr/appart-archipel.fr.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9sYSByb2NoZWxsZSwgZnJhbmNlSA1YBGhNiAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALt6-_FBsACAdICJGYzNDQzNThiLWE1YWQtNDA1Ni04ZmE3LTllYjIxOTYyNzc2YdgCAeACAQ&sid=b109377640976452e5a5c02c621d1ae5&dist=0&group_adults=2&group_children=0&hapos=13&hpos=13&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&srepoch=1757148655&srpvid=27c03e3630330170&type=total&ucfs=1&",
+        "rating": "Avec une note de 8,3",
+        "latitude": "46.149850767066965",
+        "longitude": "-1.1560600919265198"
+    },
+    {
+        "ville": "La Rochelle",
+        "name": "Résidence Pierre & Vacances Centre",
+        "description": "La Résidence Pierre & Vacances Centre vous accueille à La Rochelle, à 5 minutes de marche du vieux port et à 300 mètres de la gare TGV. Elle possède une terrasse et une piscine intérieure chauffée.\n\nLes studios du Pierre & Vacances Centre disposent d'un coin salon et d'une télévision à écran plat. Chaque studio comprend une kitchenette équipée d'un lave-vaisselle, d'un micro-ondes et d'une cafetière électrique.\n\nLa résidence est desservie par un ascenseur et accessible aux personnes à mobilité réduite.\n\nLes ascenseurs ne sont pas accessibles aux personnes à mobilité réduite. Notre équipe est là pour vous aider à trouver la meilleure alternative\n\nLa Residence Pierre & Vacances Centre bénéficie d’un emplacement idéal pour partir à la découverte de La Rochelle. Vous pourrez également faire une excursion en bateau vers l’île de Ré et le fort Boyard. La plage est à seulement 15 minutes de marche de l’hôtel. Vous pourrez profiter d’un parking sur réservation, sous réserve de disponibilité et moyennant des frais supplémentaires.\n\nVeuillez noter que la piscine est ouverte tous les jours de 9h00 à 19h00.",
+        "url": "https://www.booking.com/hotel/fr/pierre-vacances-centre.fr.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9sYSByb2NoZWxsZSwgZnJhbmNlSA1YBGhNiAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALt6-_FBsACAdICJGYzNDQzNThiLWE1YWQtNDA1Ni04ZmE3LTllYjIxOTYyNzc2YdgCAeACAQ&sid=b109377640976452e5a5c02c621d1ae5&dist=0&group_adults=2&group_children=0&hapos=12&hpos=12&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&srepoch=1757148655&srpvid=27c03e3630330170&type=total&ucfs=1&",
+        "rating": "Avec une note de 7,9",
+        "latitude": "46.15576942900863",
+        "longitude": "-1.1463922262191772"
+    },
+    {
+        "ville": "La Rochelle",
+        "name": "Résidence New Rochelle",
+        "description": "La Résidence New Rochelle est située près du port de plaisance de La Rochelle. Une piscine extérieure et un jardin sont disponibles. La plage se trouve à seulement 200 mètres.\n\nTous les studios de la Résidence disposent d’une connexion Wi-Fi gratuite, d’une salle de bains privative avec baignoire ou douche ainsi que d’une cuisine équipée avec réfrigérateur et micro-ondes. Attribués sous réserve de disponibilité, certains studios offrent une vue sur le port de plaisance ou la piscine.\n\nUne terrasse est disponible sur place. Vous trouverez des restaurants ouverts pour le déjeuner et le dîner dans les environs de la Résidence New Rochelle.\n\nUn parking à vélos sécurisé est mis gratuitement à votre disposition sur place.\n\nLe centre de La Rochelle est accessible en 10 minutes en bus. Vous pourrez profiter d’un parking privé à proximité et rejoindre l’autoroute N11 en 10 minutes en voiture.",
+        "url": "https://www.booking.com/hotel/fr/residence-du-port.fr.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9sYSByb2NoZWxsZSwgZnJhbmNlSA1YBGhNiAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALt6-_FBsACAdICJGYzNDQzNThiLWE1YWQtNDA1Ni04ZmE3LTllYjIxOTYyNzc2YdgCAeACAQ&sid=b109377640976452e5a5c02c621d1ae5&dist=0&group_adults=2&group_children=0&hapos=11&hpos=11&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&srepoch=1757148655&srpvid=27c03e3630330170&type=total&ucfs=1&",
+        "rating": "Avec une note de 7,9",
+        "latitude": "46.14068996476348",
+        "longitude": "-1.1661601063315175"
+    },
+    {
+        "ville": "La Rochelle",
+        "name": "Séjours & Affaires La Rochelle Les Minimes",
+        "description": "Le Séjours & Affaires La Rochelle Les Minimes est situé à La Rochelle, à seulement quelques pas du port et à 15 minutes à pied de la gare et du port de plaisance. Il propose des appartements et studios indépendants pour des séjours de 4 nuits minimum.\n\nRevêtu de moquette et de parquet, chaque appartement du Séjours & Affaires La Rochelle Les Minimes est insonorisé et entièrement meublé. Ils disposent d'une kitchenette entièrement équipée et d'une salle de bains privative.\n\nLes lits seront faits avant votre arrivée et un service de ménage est assuré gratuitement une fois par semaine. Vous bénéficierez d'un parking privé sur place.\n\nLa gare SNCF de La Rochelle et Les Minimes se trouvent à seulement 15 minutes à pied de la résidence.",
+        "url": "https://www.booking.com/hotel/fr/residence-les-minimes.fr.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9sYSByb2NoZWxsZSwgZnJhbmNlSA1YBGhNiAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALt6-_FBsACAdICJGYzNDQzNThiLWE1YWQtNDA1Ni04ZmE3LTllYjIxOTYyNzc2YdgCAeACAQ&sid=b109377640976452e5a5c02c621d1ae5&dist=0&group_adults=2&group_children=0&hapos=10&hpos=10&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&srepoch=1757148655&srpvid=27c03e3630330170&type=total&ucfs=1&",
+        "rating": "Avec une note de 7,6",
+        "latitude": "46.14584492619015",
+        "longitude": "-1.1561179161071777"
+    },
+    {
+        "ville": "La Rochelle",
+        "name": "Le Saint-Nicolas",
+        "description": "L’hôtel Le Saint-Nicolas vous accueille dans le quartier animé de Saint-Nicolas, à La Rochelle, à proximité de boutiques d’antiquités, de bars et de cafés. Cet établissement dispose d’une connexion Wi-Fi gratuite et d’une véranda agrémentée de grands canapés et de plantes tropicales.\n\nToutes les chambres sont équipées de la climatisation et d’une télévision par satellite à écran plat recevant les chaînes du groupe Canal+.\n\nChaque matin, vous pourrez savourer un petit-déjeuner buffet composé de plats chauds et froids dans la véranda. Vous pourrez également prendre un petit-déjeuner continental dans votre chambre. Le bar sur place sert du thé, du café et des boissons de la région.\n\nDes places de stationnement peuvent être réservées dans un parking privé et sécurisé, moyennant des frais supplémentaires et sous réserve de disponibilité. La hauteur maximale autorisée des véhicule est de 1,90 mètres et la largeur des places de stationnement est d'environ 2 mètres.\n\nVous séjournerez à 550 mètres de la tour Saint-Nicolas qui garde l’entrée du Vieux-Port. La gare de La Rochelle se trouve à 700 mètres.",
+        "url": "https://www.booking.com/hotel/fr/comforthotelsaintnicolas.fr.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9sYSByb2NoZWxsZSwgZnJhbmNlSA1YBGhNiAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALt6-_FBsACAdICJGYzNDQzNThiLWE1YWQtNDA1Ni04ZmE3LTllYjIxOTYyNzc2YdgCAeACAQ&sid=b109377640976452e5a5c02c621d1ae5&dist=0&group_adults=2&group_children=0&hapos=9&hpos=9&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&srepoch=1757148655&srpvid=27c03e3630330170&type=total&ucfs=1&",
+        "rating": "Avec une note de 9,1",
+        "latitude": "46.158134569625595",
+        "longitude": "-1.1489127710774483"
+    },
+    {
+        "ville": "La Rochelle",
+        "name": "Hotel Inn Design La Rochelle",
+        "description": "Situé à La Rochelle, à 2,5 km du centre ville et à 15 minutes en voiture du Vieux-Port, l’Hotel Inn Design propose une réception ouverte 24h/24. Vous bénéficierez gratuitement d'une connexion Wi-Fi et d'un parking privé sur place.\n\nLes chambres de l’Hotel Inn Design sont pourvues d’une télévision à écran plat et d’un plateau de courtoisie. Les logements sont également dotés d’une salle de bains munie d’une baignoire, d’un sèche-cheveux et de toilettes privatives. Des chambres pour personnes à mobilité réduite sont aussi disponibles sur place.\n\nLe matin, vous pourrez déguster un petit-déjeuner buffet composé de boisson chaude, viennoiseries, jambon et fromage, yaourts, crêpes, gâteaux, fruits et jus.\n\nLe parc des expositions de La Rochelle se trouve à 5 km. L’établissement est accessible par l’autoroute A837, juste à côté. Vous rejoindrez la gare de La Rochelle en 7 minutes en voiture. L’aéroport est à 7 km.",
+        "url": "https://www.booking.com/hotel/fr/inn-design.fr.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9sYSByb2NoZWxsZSwgZnJhbmNlSA1YBGhNiAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALt6-_FBsACAdICJGYzNDQzNThiLWE1YWQtNDA1Ni04ZmE3LTllYjIxOTYyNzc2YdgCAeACAQ&sid=b109377640976452e5a5c02c621d1ae5&dist=0&group_adults=2&group_children=0&hapos=8&hpos=8&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&srepoch=1757148655&srpvid=27c03e3630330170&type=total&ucfs=1&",
+        "rating": "Avec une note de 8,0",
+        "latitude": "46.16975862055837",
+        "longitude": "-1.1215844750404358"
+    },
+    {
+        "ville": "La Rochelle",
+        "name": "Hôtel Les Gens de Mer La Rochelle",
+        "description": "Situé à 150 mètres de la gare et à 300 mètres du Vieux Port, l'hôtel Les Gens de Mer se trouve à La Rochelle.\n\nInstallé dans une belle maison blanche qui date de 1950, l'établissement Les Gens de Mer propose 48 chambres confortables, dont 30 sont flambant neuves. Elles sont toutes disponibles à un prix raisonnable, tant pour une nuitée que pour une semaine.\n\nL'hôtel comprend 2 salles de réunions pour 15 et 50 personnes. L'équipe pourra organiser vos séminaires et repas de groupe sur demande.\n\nUne connexion Wi-Fi gratuite est disponible dans tout l'hôtel, qui se trouve à 100 mètres du nouveau palais des congrès et de l'aquarium.",
+        "url": "https://www.booking.com/hotel/fr/les-gens-de-mer-la-rochelle.fr.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9sYSByb2NoZWxsZSwgZnJhbmNlSA1YBGhNiAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALt6-_FBsACAdICJGYzNDQzNThiLWE1YWQtNDA1Ni04ZmE3LTllYjIxOTYyNzc2YdgCAeACAQ&sid=b109377640976452e5a5c02c621d1ae5&dist=0&group_adults=2&group_children=0&hapos=7&hpos=7&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&srepoch=1757148655&srpvid=27c03e3630330170&type=total&ucfs=1&",
+        "rating": "Avec une note de 7,7",
+        "latitude": "46.154126962049",
+        "longitude": "-1.147499247090309"
+    },
+    {
+        "ville": "La Rochelle",
+        "name": "Maisons du Monde Hôtel & Suites - La Rochelle Vieux Port",
+        "description": "Maisons du Monde Hôtel & Suites - La Rochelle Vieux Port est situé au niveau du port de La Rochelle. Vous bénéficierez gratuitement d'une connexion Wi-Fi gratuite dans l’ensemble des locaux.\n\nLa Maisons du Monde Hôtel & Suites - La Rochelle Vieux Port est implantée à proximité de nombreux restaurants et à quelques minutes à pied du quartier historique, de la plage et des attractions de La Rochelle. Vous aurez facilement accès à l’île de Ré et à l’île d’Oléron.\n\nLes chambres confortables comportent la climatisation, une salle de bains privative et une télévision à écran plat recevant les chaînes Canal+ et Eurosport.\n\nLe petit-déjeuner est servi de 7h00 à 11h00 le samedi et le dimanche et de 6h00 à 10h30 du lundi au vendredi.\n\nDes conditions différentes et des suppléments peuvent s’appliquer en cas de réservation de plus de 5 hébergements.",
+        "url": "https://www.booking.com/hotel/fr/inter-saint-jean-d-acre.fr.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9sYSByb2NoZWxsZSwgZnJhbmNlSA1YBGhNiAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALt6-_FBsACAdICJGYzNDQzNThiLWE1YWQtNDA1Ni04ZmE3LTllYjIxOTYyNzc2YdgCAeACAQ&sid=b109377640976452e5a5c02c621d1ae5&dist=0&group_adults=2&group_children=0&hapos=6&hpos=6&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&srepoch=1757148655&srpvid=27c03e3630330170&type=total&ucfs=1&",
+        "rating": "Avec une note de 8,5",
+        "latitude": "46.15619304375638",
+        "longitude": "-1.1544348299503326"
+    },
+    {
+        "ville": "La Rochelle",
+        "name": "Appart'City Classic La Rochelle Centre",
+        "description": "L’Appart'City Classic La Rochelle Centre se situe à 10 minutes à pied de la gare ferroviaire de La Rochelle ainsi qu'à 15 minutes du Vieux-Port et de la vieille ville. Il propose des hébergements contemporains avec un coin salon et une télévision à écran LCD.\n\nLes appartements et studios comprennent une connexion Wi-Fi disponible gratuitement. Certains logements comportent un balcon privé. Leur kitchenette est équipée d'un micro-ondes et d'un réfrigérateur.\n\nLa résidence propose un petit-déjeuner buffet composé de pains variés (notamment sans gluten), de viennoiseries ainsi que de boissons chaudes et froides. Des fruits frais, des fromages et des yaourts sont également servis. Vous pourrez acheter des boissons et des collations auprès de la réception.\n\nL’Appart'City met des parkings extérieur et souterrain à votre disposition. Vous séjournerez à 15 minutes en voiture de l’aéroport de La Rochelle-Île de Ré. Vous pourrez visiter l’île de Ré située à seulement 15 km.",
+        "url": "https://www.booking.com/hotel/fr/appart-city-cap-affaires-la-rochelle.fr.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9sYSByb2NoZWxsZSwgZnJhbmNlSA1YBGhNiAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALt6-_FBsACAdICJGYzNDQzNThiLWE1YWQtNDA1Ni04ZmE3LTllYjIxOTYyNzc2YdgCAeACAQ&sid=b109377640976452e5a5c02c621d1ae5&dist=0&group_adults=2&group_children=0&hapos=5&hpos=5&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&srepoch=1757148655&srpvid=27c03e3630330170&type=total&ucfs=1&",
+        "rating": "Avec une note de 7,5",
+        "latitude": "46.158446693708605",
+        "longitude": "-1.1410117149353027"
+    },
+    {
+        "ville": "La Rochelle",
+        "name": "Lagrange Apart'Hotel l’Escale Marine",
+        "description": "L’établissement Lagrange Apart'Hotel l’Escale Marine vous accueille à La Rochelle, à côté du port des Minimes. Cette résidence possède une piscine couverte chauffée ainsi qu’un centre de bien-être. L’aquarium et le Vieux-Port sont accessibles en 5 minutes à pied. Un parking sur place est proposé moyennant un supplément, sous réserve de disponibilité.\n\nLes appartements et les studios insonorisés comprennent tous une connexion Wi-Fi gratuite, une kitchenette entièrement équipée munie d’un micro-ondes/four ainsi qu’une salle de bains privative. Tous les appartements et les suites sont accessibles par ascenseur.\n\nDes massages sont dispensés sur demande et moyennant des frais supplémentaires. La gare de La Rochelle Ville se trouve à 1 km, tandis que l'aéroport de La Rochelle-île de Ré se situe à 8 km.",
+        "url": "https://www.booking.com/hotel/fr/l-escale-marine.fr.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9sYSByb2NoZWxsZSwgZnJhbmNlSA1YBGhNiAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALt6-_FBsACAdICJGYzNDQzNThiLWE1YWQtNDA1Ni04ZmE3LTllYjIxOTYyNzc2YdgCAeACAQ&sid=b109377640976452e5a5c02c621d1ae5&dist=0&group_adults=2&group_children=0&hapos=4&hpos=4&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&srepoch=1757148655&srpvid=27c03e3630330170&type=total&ucfs=1&",
+        "rating": "Avec une note de 7,6",
+        "latitude": "46.15107011961584",
+        "longitude": "-1.1548632902130294"
+    },
+    {
+        "ville": "La Rochelle",
+        "name": "Central Park Hôtel & Spa",
+        "description": "Le Central Park Hôtel & Spa est un établissement 4 étoiles situé à La Rochelle, à côté du Vieux-Port, à quelques minutes à pied de la plage et à 10 minutes de marche du cœur de la ville. Vous pourrez profiter du centre de bien-être avec salle de sport, bains à remous, sauna, hammam, massages et soins de beauté moyennant des frais supplémentaires.\n\nDans cet hôtel moderne et cependant écologique, toutes les chambres possèdent une salle de bains privative avec articles de toilette gratuits. Les suites comprennent un coin salon propice à la détente et certaines bénéficient d’une terrasse avec bain à remous. Chacune des chambres est équipée d’une télévision par satellite à écran plat.\n\nUn petit-déjeuner buffet est servi tous les matins. Le petit-déjeuner se compose de produits locaux et biologiques. Vous séjournerez dans un quartier résidentiel, à seulement quelques pas de boutiques et de restaurants.\n\nLa réception est ouverte 24h/24 et vous pourrez profiter d’un salon commun.\n\nLe Central Park Hôtel & Spa se trouve à respectivement 600 mètres et 1,7 km de la Grosse-Horloge et du parc des expositions de La Rochelle. L’aéroport de La Rochelle-Île de Ré, le plus proche, est accessible à 3 km.",
+        "url": "https://www.booking.com/hotel/fr/central-park-amp-spa.fr.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9sYSByb2NoZWxsZSwgZnJhbmNlSA1YBGhNiAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALt6-_FBsACAdICJGYzNDQzNThiLWE1YWQtNDA1Ni04ZmE3LTllYjIxOTYyNzc2YdgCAeACAQ&sid=b109377640976452e5a5c02c621d1ae5&dist=0&group_adults=2&group_children=0&hapos=3&hpos=3&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&srepoch=1757148655&srpvid=27c03e3630330170&type=total&ucfs=1&",
+        "rating": "Avec une note de 8,8",
+        "latitude": "46.15891332534751",
+        "longitude": "-1.1608233546310203"
+    },
+    {
+        "ville": "La Rochelle",
+        "name": "Le Champlain",
+        "description": "L'hôtel Le Champlain est situé en face du parc Charruyer, au cœur de La Rochelle. Il propose des chambres spacieuses et climatisées avec télévision par câble à écran plat et connexion Wi-Fi gratuite.\n\nToutes les chambres sont desservies par un ascenseur.\n\nLors de votre séjour, vous pourrez profiter d'un service d'enregistrement rapide, d'une réception ouverte 24h/24, d'un jardin et d'un bar où vous trouverez une sélection de journaux internationaux.\n\nVous séjournerez à seulement 5 minutes du Vieux-Port.",
+        "url": "https://www.booking.com/hotel/fr/best-western-champlain-france-angleterre.fr.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9sYSByb2NoZWxsZSwgZnJhbmNlSA1YBGhNiAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALt6-_FBsACAdICJGYzNDQzNThiLWE1YWQtNDA1Ni04ZmE3LTllYjIxOTYyNzc2YdgCAeACAQ&sid=b109377640976452e5a5c02c621d1ae5&dist=0&group_adults=2&group_children=0&hapos=2&hpos=2&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&srepoch=1757148655&srpvid=27c03e3630330170&type=total&ucfs=1&",
+        "rating": "Avec une note de 8,8",
+        "latitude": "46.16357605073282",
+        "longitude": "-1.1541599035263062"
+    },
+    {
+        "ville": "La Rochelle",
+        "name": "Hôtel Le Yachtman, The Originals Collection",
+        "description": "Situé à La Rochelle, l’Hôtel Le Yachtman, The Originals Collection possède une piscine chauffée et une terrasse avec vue sur le port. Il propose des hébergements avec salle de bains privative à seulement 500 mètres de la gare.\n\nL’établissement est ravi d'annoncer la conclusion d’un partenariat avec une société locale de location de vélos pour vous offrir une expérience encore plus agréable lors de votre séjour à l'Hôtel Le Yachtman. Profitez d'une réduction de 5 % en réservant directement sur https://www.velocation17.fr/accueil avec le code YACHTMAN.\n\nLes chambres de l’Hôtel Le Yachtman, The Originals Collection comprennent toutes une télévision à écran plat, et certaines possèdent un coin salon. Une connexion Wi-Fi est accessible gratuitement.\n\nVous pourrez prendre un verre au bar tout en lisant les journaux fournis par l’hôtel Le Yachtman. Un petit déjeuner buffet avec salade de fruits, miel et jus d'orange est servi tous les matins dans la salle à manger, qui offre des vues sur le Vieux-Port.\n\nL'aquarium de La Rochelle, les tours de La Rochelle et le centre-ville médiéval se trouvent à proximité. Vous trouverez un parking privé payant à proximité.",
+        "url": "https://www.booking.com/hotel/fr/le-yachtman.fr.html?aid=304142&label=gen173nr-10CAQoggJCGnNlYXJjaF9sYSByb2NoZWxsZSwgZnJhbmNlSA1YBGhNiAEBmAEzuAEXyAEM2AED6AEB-AEBiAIBqAIBuALt6-_FBsACAdICJGYzNDQzNThiLWE1YWQtNDA1Ni04ZmE3LTllYjIxOTYyNzc2YdgCAeACAQ&sid=b109377640976452e5a5c02c621d1ae5&dist=0&group_adults=2&group_children=0&hapos=1&hpos=1&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&srepoch=1757148655&srpvid=27c03e3630330170&type=total&ucfs=1&",
+        "rating": "Avec une note de 7,9",
+        "latitude": "46.15728365093064",
+        "longitude": "-1.149967610836029"
+    }
+]
